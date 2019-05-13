@@ -73,7 +73,7 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
+    Author     Hacker Tidore 'Tidore23'
     Name       OSIF 'Open Source Information Facebook'
     CodeName   D3b2y
     version    full version
